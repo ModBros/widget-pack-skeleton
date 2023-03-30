@@ -8,7 +8,8 @@
   "devDependencies": {
     "@types/react": "17.0.45",
     "@types/styled-components": "5.1.25",
-    "prettier": "2.6.2"
+    "prettier": "2.6.2",
+    "@modbros/dashboard-cli": "0.0.14"
   },
   "dependencies": {
     "react": "17.0.2",
@@ -49,7 +50,7 @@
     "lodash-es": "^4.17.21",
     "react-query": "^3.39.0",
     "recoil": "^0.6.1",
-    "@modbros/dashboard-sdk": "0.0.8",
-    "@modbros/dashboard-core": "0.0.13"
+    "@modbros/dashboard-sdk": "0.0.9",
+    "@modbros/dashboard-core": "0.0.15"
   }
 }
