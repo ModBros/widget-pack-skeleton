@@ -5,6 +5,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "scripts": {
+    "dev": "dashboard-cli dev"
+  },
   "devDependencies": {
     "@types/react": "17.0.45",
     "@types/styled-components": "5.1.25",
