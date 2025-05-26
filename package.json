@@ -6,12 +6,14 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "dev": "dashboard-cli dev"
+    "dev": "dashboard-cli dev",
+    "typecheck": "tsc --pretty --noEmit"
   },
   "devDependencies": {
     "@types/react": "18.3.18",
     "prettier": "2.6.2",
-    "@modbros/dashboard-cli": "1.2.3"
+    "@modbros/dashboard-cli": "1.2.3",
+    "react-native": "0.75.5"
   },
   "dependencies": {
     "react": "18.3.1",
