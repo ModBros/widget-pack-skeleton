@@ -13,7 +13,7 @@
     "@types/react": "18.3.18",
     "prettier": "2.6.2",
     "@modbros/dashboard-cli": "1.2.3",
-    "react-native": "0.75.5"
+    "@types/lodash-es": "^4.17.5"
   },
   "dependencies": {
     "react": "18.3.1",
